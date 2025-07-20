@@ -1,0 +1,21 @@
+CS101;Nhập môn Lập trình Java;Lập trình;Cơ bản
+CS201;Lập trình hướng đối tượng;Lập trình;Trung cấp
+DB101;Cơ sở dữ liệu SQL;Cơ sở dữ liệu;Cơ bản
+WD101;Thiết kế Web với HTML & CSS;Phát triển Web;Cơ bản
+AI101;Giới thiệu về Trí tuệ Nhân tạo;Trí tuệ Nhân tạo;Cơ bản
+AI201;Học máy cơ bản;Trí tuệ Nhân tạo;Trung cấp
+DS201;Phân tích Dữ liệu với Python;Khoa học Dữ liệu;Trung cấp
+PM101;Quản lý dự án Agile;Quản lý Dự án;Trung cấp
+WD201;Lập trình Web với JavaScript;Phát triển Web;Trung cấp
+WD301;Phát triển Web Fullstack;Phát triển Web;Nâng cao
+AI301;Deep Learning nâng cao;Trí tuệ Nhân tạo;Nâng cao
+DS101;Nhập môn Khoa học Dữ liệu;Khoa học Dữ liệu;Cơ bản
+DS301;Khoa học Dữ liệu nâng cao;Khoa học Dữ liệu;Nâng cao
+PM201;Quản lý dự án nâng cao;Quản lý Dự án;Nâng cao
+DB201;Tối ưu hóa Cơ sở dữ liệu;Cơ sở dữ liệu;Trung cấp
+DB301;Quản trị Cơ sở dữ liệu nâng cao;Cơ sở dữ liệu;Nâng cao 
+SEC101;Nhập môn An toàn mạng;An toàn mạng;Cơ bản
+SEC201;Bảo mật hệ thống;An toàn mạng;Trung cấp
+SEC301;Phân tích mã độc;An toàn mạng;Nâng cao
+SEC202;Quản trị an ninh mạng;An toàn mạng;Trung cấp
+SEC302;Kiểm thử xâm nhập (Penetration Testing);An toàn mạng;Nâng cao
