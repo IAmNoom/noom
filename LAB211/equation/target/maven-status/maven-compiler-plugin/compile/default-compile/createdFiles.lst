@@ -1,0 +1,6 @@
+view\Menu1.class
+controller\Main.class
+model\EquationSolver.class
+view\EquationView.class
+controller\EquationController.class
+validator\Validator.class
