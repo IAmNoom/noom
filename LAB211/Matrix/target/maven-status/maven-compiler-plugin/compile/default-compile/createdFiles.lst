@@ -1,0 +1,6 @@
+view\Menu1.class
+controller\MatrixController.class
+controller\Main.class
+validation\Validation.class
+model\Matrix.class
+view\MatrixView.class
