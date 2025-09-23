@@ -1,6 +1,5 @@
 package view;
 
-import view.Menu1;
 import controller.EquationController;
 
 public class EquationView extends Menu1 {
