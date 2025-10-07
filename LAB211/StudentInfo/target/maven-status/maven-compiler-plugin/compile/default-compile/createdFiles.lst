@@ -1,0 +1,5 @@
+model\Student.class
+model\Teacher.class
+controller\InformationManagement.class
+model\Person.class
+view\Menu.class
