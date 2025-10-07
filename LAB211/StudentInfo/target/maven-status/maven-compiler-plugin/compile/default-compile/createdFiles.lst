@@ -2,4 +2,5 @@ model\Student.class
 model\Teacher.class
 controller\InformationManagement.class
 model\Person.class
+validator\Validator.class
 view\Menu.class
